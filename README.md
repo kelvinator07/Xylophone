@@ -12,7 +12,6 @@ The xylophone is a musical instrument in the percussion family that consists of 
 Screen Captured on Android Emulator.
 
 <div align="center">
-  
 	<img src="https://github.com/kelvinator07/Xylophone/blob/master/Screenshot_2018-10-24-21-29-58.png" style="width:50px ; height:50px " />
 
 </div>
